@@ -6,3 +6,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# 苍穹外卖管理端前端（nginx 运行文件不入库）
+sky-take-out-web/nginx-1.20.2/nginx.exe
+sky-take-out-web/nginx-1.20.2/contrib/
+sky-take-out-web/nginx-1.20.2/docs/
+sky-take-out-web/nginx-1.20.2/logs/
+sky-take-out-web/nginx-1.20.2/temp/
